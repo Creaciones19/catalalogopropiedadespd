@@ -1,0 +1,11 @@
+CATÁLOGO CON PDF GENERADO AL HACER CLIC
+
+Abra index.html en Chrome o Edge. Pulse Descargar PDF: el documento se crea en ese momento con los datos de esa propiedad y se descarga con nombre asignado, conservando la página abierta.
+
+No hay archivos PDF guardados previamente en este paquete. Los archivos fotos-propiedad-N.json.js contienen los datos de fotos de cada propiedad y se cargan solo al abrir su galería o generar su PDF. Manténgalos junto a index.html. El CSS y el código de la aplicación están integrados en index.html.
+
+Para GitHub use todos los archivos de esta carpeta en la raíz.
+
+Se recuperaron 63 portadas. Faltan fotos originales de 49 propiedades; siguen indicadas como no disponibles.
+
+Si cambia precio o descripción en el JSON de index.html, el próximo PDF usará el dato actualizado.
